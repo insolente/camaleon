@@ -65,7 +65,7 @@
             "fontColor": "#6fb9af",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Desafíos</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Nuestra Promesa</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-a\">Desafíos</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-a\">Nuestra Promesa</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-d\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -157,8 +157,8 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.7"
           },
-          "title": "Somos",
-          "text": "Un equipo&nbsp;especialista&nbsp;en la&nbsp;provisión de servicios de tecnologías de la información, dedicados  a proveer soporte, desarrollo y ejecución de&nbsp;plataformas informáticas,&nbsp;networking, cloud,&nbsp;hosting, realización e implementación de campañas publicitarias, e-commerce,&nbsp; capacitación, entre otros.\n<br><br>Con la orientación al cliente como principal componente de nuestro ADN, nos esforzamos por entregar&nbsp;servicios innovadores y personalizados&nbsp;que garanticen el máximo de satisfacción.\n<br>Contamos con un equipo de profesionales multidisciplinarios, que comprometidos con la entrega de un producto eficaz y eficiente, procuran adaptarse a los desafíos que cada uno de nuestros clientes nos proponen, cumpliendo con sus requerimientos tanto en tiempo como en calidad.<br><br><b>     \nQueremos trabajar para ustedes, ser su único proveedor y adaptar el mundo a su medida.\n<br></b>\n<br>\n<br>",
+          "title": "<span style=\"font-weight: normal;\">Somos Chamaleon</span>",
+          "text": "Un equipo&nbsp;<b>especialista</b>&nbsp;en la&nbsp;<b>provisión de servicios de tecnologías de la información</b>, dedicados  a proveer soporte, desarrollo y ejecución de&nbsp;plataformas informáticas,&nbsp;networking, cloud,&nbsp;hosting, realización e implementación de campañas publicitarias, e-commerce, capacitación, entre otros.\n<br><br>Con la orientación al cliente como principal componente de nuestro ADN, nos esforzamos por entregar&nbsp;<b>servicios innovadores y personalizados</b>&nbsp;que garanticen el máximo de <b>satisfacción.</b><br><b>\n</b><br>Contamos con un equipo de profesionales multidisciplinarios, que comprometidos con la entrega de un producto eficaz y eficiente, procuran adaptarse a los desafíos que cada uno de nuestros clientes nos proponen, cumpliendo con sus requerimientos tanto en tiempo como en calidad.<br><br><b><i>     \nQueremos trabajar para ustedes, ser su único proveedor y adaptar </i></b><br><b><i>el mundo a su medida.\n<br></i></b>\n<br>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Tema"
@@ -176,6 +176,10 @@
               "font-size": "18px",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-lead I": {
+              "color": "#faaf40",
+              "font-size": "22px"
             }
           }
         },

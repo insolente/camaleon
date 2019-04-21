@@ -488,6 +488,10 @@ h6,
   font-size: 18px;
   font-family: 'Roboto', sans-serif;
 }
+#header1-4 .mbr-section-lead I {
+  color: #faaf40;
+  font-size: 22px;
+}
 #content5-6 .mbr-section-title,
 #content5-6 p {
   color: #fff;
