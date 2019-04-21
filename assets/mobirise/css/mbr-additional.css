@@ -53,6 +53,12 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Roboto', sans-serif;
 }
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -412,9 +418,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #6fb9af;
 }
-.scrollToTop_wraper {
-  display: none;
-}
 #ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -526,6 +529,9 @@ h6,
 #features1-1 .mbr-cards-col:nth-child(odd) .card-title {
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
+}
+#features1-1 .mbr-cards-col:nth-child(odd) .card-text {
+  text-align: center;
 }
 #form1-d .form-control-label {
   color: #ffffff;

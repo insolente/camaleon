@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Camaleon",
+    "name": "Chamaleon",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -15,9 +15,9 @@
         "titleFont": "Roboto",
         "subtitleFont": "Roboto",
         "textFont": "Roboto",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": [
@@ -31,7 +31,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "",
     "google-analytics": "",
     "siteUrl": "undefined",
@@ -601,19 +601,19 @@
           },
           "title1": "Entiendo",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "•* Reconocimiento de brechas o puntos de dolor, a fin de descubrir eventuales oportunidades.<br>•* Fijación de expectativas.",
+          "caption1": "• Reconocimiento de brechas o puntos de dolor, a fin de descubrir eventuales oportunidades.<br>• Fijación de expectativas.",
           "title2": "Empatizo",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "* Acercamiento con el negocio de nuestro cliente; Entender funcionamiento y desarrollo de procesos y equipos.&nbsp;<br>",
+          "caption2": "&nbsp;Acercamiento con el negocio de nuestro cliente; Entender funcionamiento y desarrollo de procesos y equipos.&nbsp;<br>",
           "title3": "Esquematizo o Diseño\n",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "•*Identificación de procesos e hitos clave.<br>•*Determinación de recursos y responsabilidades.",
+          "caption3": "• Identificación de procesos e hitos clave.<br>• Determinación de recursos y responsabilidades.",
           "title4": "Ejecuto e Implemento\n",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "•*Puesta en marcha de piloto diseñado y testeado previamente.<br><br>",
+          "caption4": "• Puesta en marcha de piloto diseñado y testeado previamente.<br><br>",
           "title5": "Elaboro Partnership\n",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "•*Apoyo presencial o remoto para los dvistintos roles de la organización a fin de asegurar que la solución obtenida en marcha blanca , se comporte en relación a las expectativas definidas en etapas previas.<br>•*Acompañamiento en la interacción de los clientes y colaboradores, con las herramientas y soluciones de manera óptima y eficiente.<br>•*Soporte permanente y continuo.&nbsp;",
+          "caption5": "• Apoyo presencial o remoto para los dvistintos roles de la organización a fin de asegurar que la solución obtenida en marcha blanca , se comporte en relación a las expectativas definidas en etapas previas.<br>• Acompañamiento en la interacción de los clientes y colaboradores, con las herramientas y soluciones de manera óptima y eficiente.<br>• Soporte permanente y continuo.&nbsp;",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
@@ -642,6 +642,9 @@
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-size": "20px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "center"
             }
           }
         },
@@ -662,7 +665,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Contáctanos",
-          "subtitle": "Llena el formulario o simplemente envíanos un correo a contacto@camaleon.cl",
+          "subtitle": "Llena el formulario o simplemente envíanos un correo a contacto@chamaleon.cl",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "form": {
             "action": "fe.essential@gmail.com",
@@ -737,7 +740,7 @@
             }
           },
           "text1": "<strong>Dirección</strong><br>Por Definir",
-          "text2": "<strong>Contacts</strong><br>\nEmail: contacto@chamaleon.cl<br>Teléfono:&nbsp;+56 9 8902 7156 ",
+          "text2": "<strong>Contacto</strong><br>\nEmail: contacto@chamaleon.cl<br>Teléfono:&nbsp;+56 9 8902 7156 ",
           "text3": "",
           "_tags": [
             "Tema"
