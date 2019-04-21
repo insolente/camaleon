@@ -449,7 +449,7 @@
           "title3": "Nos Adaptamos",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Flexibilizamos nuestro estilo de trabajo <br>y lo adaptamos al tuyo.",
-          "title4": "Te Acompañamos",
+          "title4": "Te Acompañámos",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Buscamos generar partnership permanente<br>en el tiempo, mientras desarrollas tu negocio.",
           "title5": "Trendy Website Blocks",
@@ -514,7 +514,7 @@
         },
         {
           "_params": {
-            "showImages": false,
+            "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
@@ -538,42 +538,57 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x365.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media6": {
@@ -648,7 +663,7 @@
           },
           "title": "Contáctanos",
           "subtitle": "Llena el formulario o simplemente envíanos un correo a contacto@camaleon.cl",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "form": {
             "action": "fe.essential@gmail.com",
             "alerts": {
@@ -722,7 +737,7 @@
             }
           },
           "text1": "<strong>Dirección</strong><br>Por Definir",
-          "text2": "<strong>Contacts</strong><br>\nEmail: contacto@camaleon.cl<br>Teléfono:&nbsp;+56 9 8902 7156 ",
+          "text2": "<strong>Contacts</strong><br>\nEmail: contacto@chamaleon.cl<br>Teléfono:&nbsp;+56 9 8902 7156 ",
           "text3": "",
           "_tags": [
             "Tema"
